@@ -16,5 +16,23 @@
     "added_utc": "2026-10-18T04:35:36.018128+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "b690746626eecbc5",
+    "title": "Show HN: Gspot, a tool to lint gstack code",
+    "source_url": "https://generativespotting.com/",
+    "summary": "Hi HN! I just launched gspot. It's a tool that auto detects languages and frameworks you use in a repo and then sets up linters and agent rules. It handles JS, TS, Python and Swift. You can turn any rule and tool on and off. You can also create templates from any repo that uses g",
+    "added_utc": "2026-10-19T04:41:51.208059+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "2a6ac23eb50f0535",
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "source_url": "https://github.com/finereli/whatsapp-mcp",
+    "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on. I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this. Importa",
+    "added_utc": "2026-10-19T04:41:51.208156+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
