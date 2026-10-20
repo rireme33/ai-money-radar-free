@@ -34,5 +34,41 @@
     "added_utc": "2026-10-19T04:41:51.208156+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "13da516d74a22922",
+    "title": "Show HN: AppMaker – Build business apps with AI, visual editing and code",
+    "source_url": "https://appmaker.io/",
+    "summary": "Hi HN, I've been working on AppMaker, a tool for building with AI business apps like CRMs, dashboards, and internal tools. It is NOT a low-code. https://appmaker.io Apps come with a database, authentication, and backend logic, and can be exported as standalone Node.js application",
+    "added_utc": "2026-10-20T04:52:00.924285+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "c5b03ad28d632df2",
+    "title": "Show HN: Lights-on software factory boilerplate for Claude Code",
+    "source_url": "https://github.com/gojko/lights-on-software-factory",
+    "summary": "A starting point for running a lights-on software factory with Claude Code. Based on the setup developed for Votito, where the orchestrator reduced token cost compared to bare-bones Claude workflow execution by around 80%. Comments URL: https://news.ycombinator.com/item?id=501601",
+    "added_utc": "2026-10-20T04:52:00.924420+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "184a4ca928bc6115",
+    "title": "Show HN: Omasharp: Build Omarchy apps with C# and .NET",
+    "source_url": "https://github.com/luisrudge/omasharp",
+    "summary": "To get started, tell your agents to build an app with https://github.com/luisrudge/omasharp and they'll do the rest! Apps use QmL, so they look and feel like Omarchy apps (usually built with C++ + QmL). They are also AOT-compiled, so you don't pay the startup price. I started my ",
+    "added_utc": "2026-10-20T04:52:00.924473+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "a7af2804dd5e4c6f",
+    "title": "Show HN: OpenFlow – AI Agent Workflow Builder",
+    "source_url": "https://github.com/SeeRay11/OpenFlow",
+    "summary": "Article URL: https://github.com/SeeRay11/OpenFlow Comments URL: https://news.ycombinator.com/item?id=50159710 Points: 3 # Comments: 0",
+    "added_utc": "2026-10-20T04:52:00.924483+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
