@@ -70,5 +70,41 @@
     "added_utc": "2026-10-20T04:52:00.924483+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "2a7c11f5ecf780f0",
+    "title": "Show HN: Agent Middleware – permits and signed receipts for agent tool calls",
+    "source_url": "https://github.com/agentmiddleware/agent-middleware",
+    "summary": "Article URL: https://github.com/agentmiddleware/agent-middleware Comments URL: https://news.ycombinator.com/item?id=50190676 Points: 1 # Comments: 0",
+    "added_utc": "2026-10-22T04:47:53.104001+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "84840cc2d822b03f",
+    "title": "Show HN: HarnessHive – collaborative wiring harness design platform in browser",
+    "source_url": "https://harnesshive.com",
+    "summary": "Hey HN! We built https://harnesshive.com , a browser based tool to help you design wiring harnesses together. HarnessHive has three key features 1) multiple engineers editing the same harness in real time 2) BOM and drawings that stay in sync automatically and 3) AI-native agent ",
+    "added_utc": "2026-10-22T04:47:53.104140+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "c9e9b6aa762a33d5",
+    "title": "Show HN: I built an app to stop doomscrolling while waiting for Codex to finish",
+    "source_url": "https://www.lightscroll.app/",
+    "summary": "Hi HN, I usually have a couple of threads running on Codex, but some time ago I realized I was opening X or Instagram and doomscrolling while the agents did the work. I went from regularly getting into a flow state while coding manually to almost the complete opposite. Basically ",
+    "added_utc": "2026-10-22T04:47:53.104497+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "06fb9648986c98e1",
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "source_url": "https://alterauth.com/",
+    "summary": "Comments",
+    "added_utc": "2026-10-22T04:47:53.104648+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
