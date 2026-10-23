@@ -106,5 +106,14 @@
     "added_utc": "2026-10-22T04:47:53.104648+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "d6b5125749e8144e",
+    "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+    "source_url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
+    "summary": "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume. The problem: testing against these tool",
+    "added_utc": "2026-10-23T04:50:45.715813+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
