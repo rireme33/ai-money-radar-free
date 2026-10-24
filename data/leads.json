@@ -115,5 +115,14 @@
     "added_utc": "2026-10-23T04:50:45.715813+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "29d58fa649949b0d",
+    "title": "Show HN: AI Crash Debugging Gauntlet",
+    "source_url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+    "summary": "One of the core conceits of ForensicDbg was that if we build a significantly improved crash debugging core, that value would carry through, regardless of the final workflow. Our testers have helped us confirm that on the more traditional, visual debugging side. But how do you con",
+    "added_utc": "2026-10-24T04:37:50.575924+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
