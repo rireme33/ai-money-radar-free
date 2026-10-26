@@ -124,5 +124,32 @@
     "added_utc": "2026-10-24T04:37:50.575924+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "04a5ff0ef6c57791",
+    "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
+    "source_url": "https://github.com/nodecode-ai/nodecode",
+    "summary": "Hi HN, we're Mike and Thom. Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing markdown files. NODECODE remembers by rewriting itself. And that is in itself a new para",
+    "added_utc": "2026-10-26T04:48:26.605774+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "a9522f32ac195752",
+    "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
+    "source_url": "https://freehire.me/",
+    "summary": "freehire is a filterable, job board aggregator, job tracker, and AI-assisted resume tailoring tool. Saving your skills and preferences changes which jobs appear and how your resume gets tailored. I've looked at a lot of these solutions over the years and found it really hard to f",
+    "added_utc": "2026-10-26T04:48:26.605894+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "2fc7d4cdb38fb784",
+    "title": "Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)",
+    "source_url": "https://sketchagent.dev/s/yfYU6LhT",
+    "summary": "When GPT-6/Gemini launched recently, a lot of the 3D demos used blender-mcp ( https://github.com/ahujasid/blender-mcp ). It's cool, but you have to install blender locally and wire up plugins just to try a prompt or share a run. I built a browser-based 3D mesh playground so you c",
+    "added_utc": "2026-10-26T04:48:26.605947+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
