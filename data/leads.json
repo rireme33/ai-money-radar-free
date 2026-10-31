@@ -205,5 +205,23 @@
     "added_utc": "2026-10-30T05:50:39.115388+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "d043b19e06ec2903",
+    "title": "Show HN: Ghost in the Log – a Halloween log investigation with a live AI",
+    "source_url": "https://ghost-in-the-log.vercel.app/",
+    "summary": "Article URL: https://ghost-in-the-log.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50312389 Points: 1 # Comments: 0",
+    "added_utc": "2026-10-31T05:43:03.174030+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "1cf3b6858630d544",
+    "title": "Show HN: Governor, a firewall for AI agent spend and tool calls",
+    "source_url": "https://bsvkey-governor-demo.fly.dev/",
+    "summary": "Article URL: https://bsvkey-governor-demo.fly.dev/ Comments URL: https://news.ycombinator.com/item?id=50311974 Points: 1 # Comments: 0",
+    "added_utc": "2026-10-31T05:43:03.174078+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
