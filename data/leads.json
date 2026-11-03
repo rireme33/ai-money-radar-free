@@ -241,5 +241,32 @@
     "added_utc": "2026-11-02T06:04:45.225281+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "fb18596411006021",
+    "title": "Show HN: Trifecta Checker – a pre-flight safety check for AI agents",
+    "source_url": "https://meta-global-ai-hackathon-trifecta-c.vercel.app/",
+    "summary": "Article URL: https://meta-global-ai-hackathon-trifecta-c.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50348682 Points: 1 # Comments: 0",
+    "added_utc": "2026-11-03T06:48:49.083750+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "049ee4f15a730bc7",
+    "title": "Show HN: Provenance – A Spec That Evolves with Your Code",
+    "source_url": "https://github.com/quality-sh/provenance",
+    "summary": "Hi all, I've been building Provenance, a tool for growing your specification of your code as your understanding of it becomes clearer. Currently I feel that the lifecycle around software improving feels too detached. We talk to our teams, spec things out with our agents, track wo",
+    "added_utc": "2026-11-03T06:48:49.083862+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "3e8a8aa6133203ad",
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "source_url": "https://momentic.ai/",
+    "summary": "Comments",
+    "added_utc": "2026-11-03T06:48:49.084014+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
