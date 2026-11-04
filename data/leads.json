@@ -268,5 +268,23 @@
     "added_utc": "2026-11-03T06:48:49.084014+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "1ba2d9f1e2e2a131",
+    "title": "Show HN: ADB dock a macOS menu bar app to wirelessly connect Android devices",
+    "source_url": "https://github.com/tripathiamritansh/adbdock",
+    "summary": "ADB Dock is a macOS menu bar app for seeing which Android devices are connected, pairing new devices with a code, and keeping your approved devices attached over adb. With agents being the primary UI to interact with code opening Android Studio is not required anymore. This menu ",
+    "added_utc": "2026-11-04T06:23:55.350042+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "5b0fb16667806228",
+    "title": "Show HN: HackerReels - Short Videos for viral HN posts",
+    "source_url": "https://wile.ai/v/BPOH3BHCRWWCAKU4OVNOTEQ73A",
+    "summary": "I've got a hacker-news automation which creates a short video every time a new post becomes viral. wile.ai: Every automation ends in a reel. Now, you can create your own private feed. I've been working into this for a while. We are currently pre-launch but any feedback is welcome",
+    "added_utc": "2026-11-04T06:23:55.350211+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
