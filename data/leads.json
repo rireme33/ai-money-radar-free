@@ -322,5 +322,23 @@
     "added_utc": "2026-11-06T06:47:08.940698+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "4ccc03f24776363c",
+    "title": "Show HN: Diff MCP tool lists: one server added 33 tools, README unchanged",
+    "source_url": "https://mcp.brydge-ai.com/diff.html",
+    "summary": "Article URL: https://mcp.brydge-ai.com/diff.html Comments URL: https://news.ycombinator.com/item?id=50401995 Points: 1 # Comments: 0",
+    "added_utc": "2026-11-07T05:58:48.490083+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "073250d1f8e79567",
+    "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+    "source_url": "https://github.com/meshapplied/Goethe",
+    "summary": "Hey, we launched Goethe, because deploying models on hardware you control end-to-end is pain in the ass. Goethe is like Vercel, but for AI models and hardware. It manages your models and hardware you point it and runs corresponding optimal inference. -- install it -- deploy any m",
+    "added_utc": "2026-11-07T05:58:48.490554+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
