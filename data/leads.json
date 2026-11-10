@@ -367,5 +367,14 @@
     "added_utc": "2026-11-09T06:31:27.954263+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "3a7a39eaf9035d30",
+    "title": "Show HN: I built a tool that babysits your agents",
+    "source_url": "https://www.physicsbase.ai/",
+    "summary": "Hi Hackernews, This is my go at an important issue which is making sure agents stick to their rules and context. After using agents and learning from the community on reddit, I decided to have a go at some of the most important problems surrounding how agents are built and deploy",
+    "added_utc": "2026-11-10T07:19:11.650860+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
