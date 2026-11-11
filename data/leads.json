@@ -376,5 +376,32 @@
     "added_utc": "2026-11-10T07:19:11.650860+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "d7608f1b23b7d603",
+    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+    "source_url": "https://github.com/adrbn/bo2-mac",
+    "summary": "I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompi",
+    "added_utc": "2026-11-11T06:22:42.572545+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "5ef253a6aab88e80",
+    "title": "Show HN: Mimzie, an agent-neutral alternative to the Claude Suite/Claude Cowork",
+    "source_url": "https://mimzie.com/",
+    "summary": "hi HN! I built Mimzie, an agent neutral AI workspace inspired by the Claude Suite (Docs, Sheets, Slides) and Cowork. It's a free desktop app that runs ChatGPT, Claude, Gemini, and Grok in their native CLI harnesses. Think T3 Code or Conductor but for knowledge work. It's basicall",
+    "added_utc": "2026-11-11T06:22:42.572807+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "9836df3492903c3f",
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "source_url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+    "summary": "Comments",
+    "added_utc": "2026-11-11T06:22:42.572943+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
