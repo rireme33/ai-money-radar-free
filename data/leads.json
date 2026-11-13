@@ -403,5 +403,41 @@
     "added_utc": "2026-11-11T06:22:42.572943+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "9a34b4b5195c8322",
+    "title": "Show HN: I built a tool to check website access for 14 AI crawlers",
+    "source_url": "https://floxolab.com/ai-crawler-checker",
+    "summary": "Article URL: https://floxolab.com/ai-crawler-checker Comments URL: https://news.ycombinator.com/item?id=50478741 Points: 1 # Comments: 0",
+    "added_utc": "2026-11-13T06:46:38.774725+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "9f98adef35eb8c79",
+    "title": "Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",
+    "source_url": "https://github.com/pharma2a/pharma2a",
+    "summary": "I'm a pharmacist in France and a nerd. I built an open source protocol based on A2A, Called PharmA2A. Why, because normally I order directly from more than hundred of suppliers, by phone mails or on the web forms. The idea is to automatise orders of selling and buying between pha",
+    "added_utc": "2026-11-13T06:46:38.774794+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "ebe45315751faa2a",
+    "title": "Show HN: Grow any hobby (skills for humans not AI)",
+    "source_url": "https://grow-bonsai.app/",
+    "summary": "\"Skills for humans\" is what originally sparked me to create this app. Everyone was so focused on AI skills that it was kinda sad. I wanted to create an app focused on people and to help people grow. Let me know what you think! Developing this helped me stay sane. Comments URL: ht",
+    "added_utc": "2026-11-13T06:46:38.774958+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "b1c7febb39e1226c",
+    "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+    "source_url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+    "summary": "Comments",
+    "added_utc": "2026-11-13T06:46:38.775154+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
