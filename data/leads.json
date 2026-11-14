@@ -439,5 +439,41 @@
     "added_utc": "2026-11-13T06:46:38.775154+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "b33772086c53007e",
+    "title": "Show HN: Open-Source Version of Cyclon: Phone where AI is the interface?",
+    "source_url": "https://opencyclone.vercel.app/",
+    "summary": "Article URL: https://opencyclone.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50493213 Points: 4 # Comments: 0",
+    "added_utc": "2026-11-14T06:24:06.689660+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "1239519df2e9ce5f",
+    "title": "Show HN: Building a list of places to launch your app",
+    "source_url": "https://another.directory/where-to-launch",
+    "summary": "It's manually reviewed (with AI help ofc) and I'll keep it up to date. Feel free to add your suggestions. Comments URL: https://news.ycombinator.com/item?id=50492076 Points: 2 # Comments: 0",
+    "added_utc": "2026-11-14T06:24:06.689781+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "201029f6f353beef",
+    "title": "Show HN: Anvil builds premium websites at lower cost",
+    "source_url": "https://www.tryanvil.dev/",
+    "summary": "Anvil is an AI app builder focused on premium UI/UX without the premium price tags. Build polished websites by using natural language with with real project execution, live previews and automated error correction. Plans starts at $1 for 7 days with 1M tokens. Built independently ",
+    "added_utc": "2026-11-14T06:24:06.689837+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "429b6292835725de",
+    "title": "Show HN: Customer Intelligence and Monetization Toolkit for Claude Code",
+    "source_url": "https://github.com/Satvik-jain/customer-intelligence-toolkit",
+    "summary": "Article URL: https://github.com/Satvik-jain/customer-intelligence-toolkit Comments URL: https://news.ycombinator.com/item?id=50490575 Points: 2 # Comments: 0",
+    "added_utc": "2026-11-14T06:24:06.689880+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
