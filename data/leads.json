@@ -556,5 +556,14 @@
     "added_utc": "2026-11-22T06:48:54.241561+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "8f51180f74ef58bd",
+    "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break",
+    "source_url": "https://github.com/GenesisAgentInfra/genesis",
+    "summary": "When agent ships code faster and faster, human review is no longer possible. Which brings 2 problems, at least for me: 1. I need to understand what my agent changes as quickly and easily as possible, cuz I don't wanna lose track of the current status of my product, or be the main",
+    "added_utc": "2026-11-24T09:55:07.190672+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
