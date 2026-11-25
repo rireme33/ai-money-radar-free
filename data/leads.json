@@ -565,5 +565,14 @@
     "added_utc": "2026-11-24T09:55:07.190672+00:00",
     "revenue_verified": false,
     "note": "収益情報・商品としての需要は未検証"
+  },
+  {
+    "id": "046029a0dedf8002",
+    "title": "Show HN: Lightscale AI – A language for LLMs to write business software",
+    "source_url": "https://lightscale.ai/",
+    "summary": "I am Luc, one of the co-founders of Lightscale AI. I have background in programming languages (ETH Zurich) and we are small team in Zug, Switzerland. As more and more code is now written by LLMs and few people have time to review the generated code, we came up with the idea to re",
+    "added_utc": "2026-11-25T08:35:18.577486+00:00",
+    "revenue_verified": false,
+    "note": "収益情報・商品としての需要は未検証"
   }
 ]
